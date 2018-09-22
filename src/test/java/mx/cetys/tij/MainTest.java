@@ -6,7 +6,7 @@ class MainTest {
 
     @org.junit.jupiter.api.Test
     void main() {
-        Main.main(new String[]{"arg1", "arg2"});
+        Main.main(new String[]{"Soylaonda", "arg2"});
         assertTrue(true);
     }
 }
